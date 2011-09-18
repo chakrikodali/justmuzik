@@ -1,0 +1,10 @@
+/* TEAM */
+  Developer: chakri
+  Site: trying for justmuzik.com
+  Twitter: @chakrikodali
+  Location: sanjose, ca
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Backbon.js, jQuery
+  Software: 
