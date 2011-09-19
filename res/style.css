@@ -211,11 +211,6 @@ td { vertical-align: top; }
    Author: chakri
    ========================================================================== */
 
-.dragndropArea {
-	border: 1px solid red;
-	width : 600px;
-	height: 600px;	
-}
 
 
 
@@ -273,8 +268,6 @@ td { vertical-align: top; }
   /* Style adjustments for viewports 768px and over go here */
 
 }
-
-
 
 /* ==|== print styles =======================================================
    Print styles.
