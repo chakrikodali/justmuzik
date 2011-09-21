@@ -34,7 +34,7 @@ html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-
 
 body { margin: 0; font-size: 13px; line-height: 1.231; }
 
-body, button, input, select, textarea { font-family: sans-serif; color: #222; }
+body, button, input, select, textarea { font-family: Georgia; color: #222; }
 
 /* 
  * Remove text-shadow in selection highlight: h5bp.com/i
@@ -207,25 +207,6 @@ table { border-collapse: collapse; border-spacing: 0; }
 td { vertical-align: top; }
 
 
-/* ==|== primary styles =====================================================
-   Author: chakri
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* ==|== non-semantic helper classes ========================================
    Please define your styles before this section.
    ========================================================================== */
@@ -288,3 +269,6 @@ td { vertical-align: top; }
   p, h2, h3 { orphans: 3; widows: 3; }
   h2, h3 { page-break-after: avoid; }
 }
+
+
+
