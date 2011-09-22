@@ -270,5 +270,9 @@ td { vertical-align: top; }
   h2, h3 { page-break-after: avoid; }
 }
 
-
+.songs .song .playBtn,
+.songs .song .pauseBtn,
+.songs .song .replayBtn{
+	display: inline-block;
+}
 
